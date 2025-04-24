@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sKCNwTLS8X2zWAPLm3yyKqyOB/qijrzSpmL5S53QQCcThtjiAud/4UySRJO0b5oH2+/Y77LsImR+cUV6dlA4A==",
+  "success": true,
+  "projectFilePath": "/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/Backend_P13C.csproj",
+  "expectedPackageFiles": [
+    "/Users/jfrancisco/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.0/microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/qrcoder/1.6.0/qrcoder.1.6.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/sixlabors.fonts/2.1.2/sixlabors.fonts.2.1.2.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/sixlabors.imagesharp/3.1.7/sixlabors.imagesharp.3.1.7.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/sixlabors.imagesharp.drawing/2.1.5/sixlabors.imagesharp.drawing.2.1.5.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/system.data.sqlclient/4.8.6/system.data.sqlclient.4.8.6.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/system.drawing.common/9.0.4/system.drawing.common.9.0.4.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/zxing.net/0.16.10/zxing.net.0.16.10.nupkg.sha512",
+    "/Users/jfrancisco/.nuget/packages/zxing.net.bindings.imagesharp/0.16.15/zxing.net.bindings.imagesharp.0.16.15.nupkg.sha512"
+  ],
+  "logs": []
+}

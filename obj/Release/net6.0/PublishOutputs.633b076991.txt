@@ -1,0 +1,15 @@
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Backend_P13C.exe
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Backend_P13C.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Backend_P13C.deps.json
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Backend_P13C.runtimeconfig.json
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Backend_P13C.pdb
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Dapper.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LP-363\Desktop\SINCI\Proyectos Activos\NISS0124\BackEnd\Backend_P13C\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

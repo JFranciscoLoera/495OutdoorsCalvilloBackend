@@ -1,0 +1,180 @@
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/appsettings.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/Backend_P13C.exe
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/Backend_P13C.deps.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/Backend_P13C.runtimeconfig.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/Backend_P13C.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/Backend_P13C.pdb
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfoInputs.cache
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfo.cs
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.CoreCompileInputs.cache
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.Backend_P13C.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.build.Backend_P13C.props
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Backend_P13C.props
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Backend_P13C.props
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/scopedcss/bundle/Backend_P13C.styles.css
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/refint/Backend_P13C.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.pdb
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.genruntimeconfig.cache
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/ref/Backend_P13C.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/Dapper.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.AssemblyReference.cache
+C:/Users/franc/source/repos/Backend_P13C/Backend_P13C/obj/Debug/net6.0/Backend_.20025275.Up2Date
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.exe
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.deps.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.runtimeconfig.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.pdb
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Dapper.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.AssemblyReference.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfoInputs.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfo.cs
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.CoreCompileInputs.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.sourcelink.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.Backend_P13C.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.build.Backend_P13C.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Backend_P13C.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Backend_P13C.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/scopedcss/bundle/Backend_P13C.styles.css
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_.20025275.Up2Date
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/refint/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.pdb
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.genruntimeconfig.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/obj/Debug/net6.0/ref/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/P13C/BackEnd/Backend_P13C/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.exe
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.deps.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.runtimeconfig.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.pdb
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Dapper.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.AssemblyReference.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfoInputs.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfo.cs
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.CoreCompileInputs.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.Backend_P13C.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.build.Backend_P13C.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Backend_P13C.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Backend_P13C.props
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/scopedcss/bundle/Backend_P13C.styles.css
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_.20025275.Up2Date
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/refint/Backend_P13C.dll
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.pdb
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.genruntimeconfig.cache
+C:/Users/JFrancisco/Desktop/SINCI/Proyectos ACTIVOS/NISS 0124-1/BackEnd/Backend_P13C/obj/Debug/net6.0/ref/Backend_P13C.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.exe
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.deps.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.runtimeconfig.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.pdb
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Dapper.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.AssemblyReference.cache
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfoInputs.cache
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfo.cs
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.CoreCompileInputs.cache
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.Backend_P13C.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.build.Backend_P13C.props
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Backend_P13C.props
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Backend_P13C.props
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/scopedcss/bundle/Backend_P13C.styles.css
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_.20025275.Up2Date
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/refint/Backend_P13C.dll
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.pdb
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.genruntimeconfig.cache
+C:/Users/LP-363/Desktop/SINCI/Proyectos Activos/NISS0124/BackEnd/Backend_P13C/obj/Debug/net6.0/ref/Backend_P13C.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.Development.json
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/appsettings.json
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.deps.json
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.runtimeconfig.json
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Backend_P13C.pdb
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Dapper.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.AssemblyReference.cache
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfoInputs.cache
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.AssemblyInfo.cs
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.CoreCompileInputs.cache
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.MvcApplicationPartsAssemblyInfo.cache
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/scopedcss/bundle/Backend_P13C.styles.css
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/refint/Backend_P13C.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.pdb
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.genruntimeconfig.cache
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/ref/Backend_P13C.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/Debug/net6.0/Backend_P13C.csproj.CopyComplete
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/QRCoder.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/SixLabors.ImageSharp.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/zxing.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/SixLabors.Fonts.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/SixLabors.ImageSharp.Drawing.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/bin/Debug/net6.0/ZXing.ImageSharp.dll

@@ -1,0 +1,233 @@
+[
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetDownTime",
+    "RelativePath": "api/P13/getDonwTime",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "line",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "shift",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "loss",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetJPHOEE",
+    "RelativePath": "api/P13/getJPHOEE",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "line",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "shift",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetlLineDataCatalogue",
+    "RelativePath": "api/P13/getLines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "ObternerCatalogoPerdidas",
+    "RelativePath": "api/P13/getLinesLosses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetLossesData",
+    "RelativePath": "api/P13/getLossesData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "line",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "shift",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetMetalLineFailureData",
+    "RelativePath": "api/P13/getMetalLineFailureData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetlShiftCatalogue",
+    "RelativePath": "api/P13/getShift",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetTCData",
+    "RelativePath": "api/P13/getTCData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "line",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "shift",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyApiProject.Controllers.P13Controller",
+    "Method": "GetTPData",
+    "RelativePath": "api/P13/getTPData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "line",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "shift",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_P13C.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Backend_P13C.WeatherForecast, Backend_P13C, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

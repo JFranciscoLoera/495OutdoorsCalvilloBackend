@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/Backend_P13C.csproj": {}
+  },
+  "projects": {
+    "/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/Backend_P13C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/Backend_P13C.csproj",
+        "projectName": "Backend_P13C",
+        "projectPath": "/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/Backend_P13C.csproj",
+        "packagesPath": "/Users/jfrancisco/.nuget/packages/",
+        "outputPath": "/Users/jfrancisco/Documents/Development/BackEnd/Backend_P13C/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jfrancisco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "SixLabors.Fonts": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.10, )"
+            },
+            "ZXing.Net.Bindings.ImageSharp": {
+              "target": "Package",
+              "version": "[0.16.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jfrancisco/.dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
