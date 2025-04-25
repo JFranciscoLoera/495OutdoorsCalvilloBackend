@@ -76,7 +76,8 @@ namespace Backend_P13C.Data
                     {
                         int id = (int)result["id"];
                         string codigoProducto = result["codigo_producto"]?.ToString();
-                        string barcodePath = GenerarYGuardarCodigoBarras(codigoProducto, id);
+                        decimal precio = (decimal)result["precio"];
+                        string barcodePath = GenerarYGuardarCodigoBarras(codigoProducto, id, precio);
                         ActualizarRutaBarcode(id, barcodePath);
                         result["barcode_path"] = barcodePath;
                     }
@@ -94,7 +95,7 @@ namespace Backend_P13C.Data
             }
         }
 
-        private string GenerarYGuardarCodigoBarras(string codigoProducto, int id)
+        private string GenerarYGuardarCodigoBarras(string codigoProducto, int id, decimal precio)
         {
             try
             {
@@ -122,7 +123,7 @@ namespace Backend_P13C.Data
                 var pixelData = barcodeWriter.Write(codigoProducto);
 
                 // 2. Crear imagen con espacio para texto
-                int textHeight = 40;
+                int textHeight = 80; // Más espacio para texto
                 using (var image = new Image<Rgba32>(pixelData.Width, pixelData.Height + textHeight))
                 {
                     // Fondo blanco
@@ -144,20 +145,33 @@ namespace Backend_P13C.Data
 
                     // 3. Configurar fuente
                     var fontCollection = new FontCollection();
-                    var fontFamily = fontCollection.AddSystemFonts().Families.FirstOrDefault();
+                    var fontFamily = fontCollection.AddSystemFonts().Families.First();
                     var font = fontFamily.CreateFont(16, FontStyle.Bold);
 
-                    // 4. Dibujar texto (versión simplificada y funcional)
-                    var textOptions = new DrawingOptions();
-                    var textPosition = new SixLabors.ImageSharp.PointF(pixelData.Width / 2, pixelData.Height + 10);
+                    // 4. Dibujar texto (aproximación centrada)
                     var textBrush = Brushes.Solid(Color.Black);
+                    var pen = Pens.Solid(Color.Black, 1f);
 
-                    image.Mutate(ctx => ctx.DrawText(
-                        textOptions,
+                    // Aproximación de centrado para código de producto
+                    float codeTextX = (image.Width - (codigoProducto.Length * 11)) / 2; // Estimación aproximada
+                    float codeTextY = pixelData.Height + 15;
+
+                    image.Mutate(x => x.DrawText(
                         codigoProducto,
                         font,
                         textBrush,
-                        textPosition));
+                        new PointF(codeTextX, codeTextY)));
+
+                    // Aproximación de centrado para precio
+                    var priceText = $"${precio.ToString("0.00")}";
+                    float priceTextX = (image.Width - (priceText.Length * 9)) / 2; // Estimación aproximada
+                    float priceTextY = pixelData.Height + 45;
+
+                    image.Mutate(x => x.DrawText(
+                        priceText,
+                        font,
+                        textBrush,
+                        new PointF(priceTextX, priceTextY)));
 
                     // 5. Guardar imagen
                     image.Save(fullPath);
